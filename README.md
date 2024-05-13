@@ -7,3 +7,5 @@
 - *My personal website* --> WIP
 
 #### I'm currently employed as a frontend developer mainly working with React and VanillaJS on an e-commerce application.
+
+#### Work account --> https://github.com/LenkoIvanov17
