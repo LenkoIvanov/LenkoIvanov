@@ -1,10 +1,10 @@
 ### Hi there, my name is Lenko and I'm a frontend software developer 👋
 
-#### My portfolio projects: 
-- *An e-commerce website with a React frontend. A collaborative effort* --> [link](https://github.com/Grigorov-Georgi/midnightsun) 
-- *A live chat application built with React.js, Node.js and the WebSocketAPI. Made for an internal workshop* --> [link](https://github.com/LenkoIvanov/ChatAPIWorkshop)
+#### A selection of my projects: 
 - *Bachelor thesis - a comparison between React.js and Vue.js. Acts as an interface to the Microsoft Graph API for Teams* --> [link](https://github.com/LenkoIvanov/TeamsScheduler)
+- *Master thesis - an exploration of different approaches for cross-domain state sharing. Iframes are used for subdomains, whereas a solution implementing Redis is utilized for a broader approach* --> [link](https://github.com/LenkoIvanov/CrossDomainStateSharing)
+- *Vanilla Retro Tool - a retro tool built entirely using Vanilla JS and CSS. A WebSocket server is used to sync the notes in real-time_* --> [link](https://github.com/LenkoIvanov/VanillaRetroTool) 
 
-#### I'm currently employed as a frontend developer mainly working with React and VanillaJS on an e-commerce application.
+#### I'm currently employed as a frontend developer working with Next.js on an e-commerce application.
 
-#### Work account --> https://github.com/LenkoIvanov17
+#### Work account --> [link](https://github.com/blubito-lenko-ivanov-01)
